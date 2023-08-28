@@ -24,13 +24,15 @@ This repository contains the findings from an Exploratory Data Analysis (EDA) co
 - `airtable.csv`: The dataset used for the analysis.
 - `analysis.ipynb`: Jupyter Notebook containing the code and step-by-step EDA process.
 - `README.md`: This document summarizes the observations and insights from the EDA.
+- `Layoff Analysis Dashboard packaged.twbx`: This document is a Interactive Tableau Visulization graphs and Dashboard.
 
 ## Usage
 
 1. Clone this repository to your local machine.
 2. Open the Jupyter Notebook `analysis.ipynb` to review the code and analysis.
-3. The notebook contains explanations, visualizations, and interpretations of the data.
-4. Modify the code and analysis as needed for your own insights.
+3. The notebook contains explanations, and interpretations of the data.
+4. The Tableau file '.twbx' contains all the visualization needed to complete the analysis.
+5. Modify the code and analysis as needed for your own insights.
 
 ## Conclusion
 
