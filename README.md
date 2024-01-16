@@ -2,6 +2,10 @@
 
 This repository contains the findings from an Exploratory Data Analysis (EDA) conducted on a layoff dataset. The dataset provides insights into layoffs across different industries, company stages, time periods, and countries. The analysis aims to uncover patterns, trends, and key observations related to layoffs.
 
+
+## Dashboard Preview
+![Dashboard Preview](Dashboard.png)
+
 ## Key Observations
 
 1. **Month-wise Layoffs**:
