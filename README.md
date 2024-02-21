@@ -32,7 +32,7 @@ This repository contains the findings from an Exploratory Data Analysis (EDA) co
 
 ## Usage
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine `git clone https://github.com/jashpaleja/EDA-on-Layoff-Dataset.git`.
 2. Open the Jupyter Notebook `analysis.ipynb` to review the code and analysis.
 3. The notebook contains explanations, and interpretations of the data.
 4. The Tableau file '.twbx' contains all the visualization needed to complete the analysis.
